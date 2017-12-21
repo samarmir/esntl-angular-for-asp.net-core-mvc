@@ -1,3 +1,4 @@
+
 # Errata for *Essential Angular for ASP.NET Core MVC*
 
 You may see the following error if you install the .NET Core 2.0 SDK and then try to create a project using the command in Listing 3-7:
